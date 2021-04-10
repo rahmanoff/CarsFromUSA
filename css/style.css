@@ -340,8 +340,13 @@ a {
     justify-content: space-between;
 }
 
+.contacts_info {
+    padding: 50px 75px 57px;
+}
+
 .contacts_list {
     list-style: none;
+    
 }
 
 .contacts_item {
